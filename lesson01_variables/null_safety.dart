@@ -12,6 +12,4 @@ void main() {
 
   username ??= 'minsang';
   print(username);
-
-  print(username?.length);
 }
