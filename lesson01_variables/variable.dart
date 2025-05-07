@@ -11,6 +11,7 @@ void main(){
   age=20;
   age2=20;
   age2='30';
+  age2=true;
   
   print(age);
   print(age2);
