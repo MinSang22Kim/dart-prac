@@ -1,0 +1,19 @@
+# 빌드 디렉토리
+build/
+
+# Dart 패키지 설치 후 생기는 파일
+.dart_tool/
+.packages
+.pub/
+
+# VS Code 설정 파일
+.vscode/
+
+# macOS 시스템 파일
+.DS_Store
+
+# 로그 파일
+*.log
+
+# 환경 변수 파일
+.env
