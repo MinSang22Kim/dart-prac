@@ -1,0 +1,10 @@
+{
+    "version": "0.2.0",  // launch.json 형식 버전
+    "configurations": [
+      {
+        "name": "Dart & Flutter",     // 디버그 메뉴에 표시될 이름
+        "request": "launch",          // 'launch' = 실행 (attach는 이미 실행된 앱에 붙는 것)
+        "type": "dart"                // Dart 또는 Flutter 앱임을 나타냄
+      }
+    ]
+  }
