@@ -1,6 +1,6 @@
 # Dart
 
-Dart 언어 기초
+Dart 언어
 
 ## 목차
 
